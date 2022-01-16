@@ -4,9 +4,9 @@ the uber of NFTs
 
 - [Deployed Interace](https://boring-murdock-eddfac.netlify.app)👀
 
--[Repo for Contracts](https://github.com/FMA126/freeway-eth)
--[Driver NFT on Opensea](https://testnets.opensea.io/collection/freewaydriver)
--[Rider NFT on Opensea](https://testnets.opensea.io/collection/freewayrider)
+- [Repo for Contracts](https://github.com/FMA126/freeway-eth)
+- [Driver NFT on Opensea](https://testnets.opensea.io/collection/freewaydriver)
+- [Rider NFT on Opensea](https://testnets.opensea.io/collection/freewayrider)
 
 ## Technologies Used
 - Polygon
