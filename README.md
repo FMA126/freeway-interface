@@ -4,6 +4,12 @@ the uber of NFTs
 
 [Repo for Contracts](https://github.com/FMA126/freeway-eth)
 
+## Technologies Used
+- Polygon
+
+## Future Technologies (TODO)
+- Superfluid
+
 ## Description
 
 The Freeway DAO is a community owned ride sharing platform.  There are riders and drivers.  There will be two different
