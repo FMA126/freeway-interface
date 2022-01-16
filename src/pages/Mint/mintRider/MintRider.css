@@ -1,0 +1,11 @@
+.mint-container-rider {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.mint-container-rider button {
+  cursor: pointer;
+}
