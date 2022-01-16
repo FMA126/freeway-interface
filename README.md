@@ -1,4 +1,4 @@
-# Freeway (Interface)
+# FreeWayDAO (Interface)
 
 the uber of NFTs
 
